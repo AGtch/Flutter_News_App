@@ -1,0 +1,16 @@
+{
+  "@@locale": "en",
+  "app_name": "Now News",
+  "news_label": "News",
+  "search_label": "Search",
+  "settings_label": "Settings",
+  "language": "Language",
+  "dark_mode": "Dark mode",
+  "country": "Country",
+  "egypt": "Egypt",
+  "usa": "USA",
+  "germany": "Germany",
+  "arabic": "Arabic",
+  "english": "English",
+  "no_result": "No Result"
+}

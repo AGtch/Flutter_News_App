@@ -1,0 +1,16 @@
+{
+  "@@locale": "ar",
+  "app_name": "اخبار الأن",
+  "news_label": "الأخبار",
+  "search_label": "البحث",
+  "settings_label": "الأعدادت",
+  "language": "اللغة",
+  "dark_mode": "النمط المظلم",
+  "country": "الدولة",
+  "egypt": "مصر",
+  "usa": "امريكا",
+  "germany": "المانيا",
+  "arabic": "عربي",
+  "english": "انجليزي",
+  "no_result": "لا نتائج"
+}
